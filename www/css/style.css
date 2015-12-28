@@ -1,0 +1,39 @@
+/* Empty. Add your own CSS if you like */
+.slider {
+  height: 200px;
+}
+.slider-slide {
+
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+.bar.bar-stable{
+  background: url("//d2rdr03y0akbm.cloudfront.net/assets/v3/backgrounds/nav-background-d9e7afae68ef272dae13309fe41a1c66.png") repeat-x;
+  box-shadow: 0px 1px 6px 1px #071106;
+  z-index: 3;
+  color: white !important;
+}
+
+.footer{
+  background-color: #00468b;
+}
+
+
+
+.img-equipo{
+  max-width: 100%;
+height: auto;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.txt-center{ text-align: center;}

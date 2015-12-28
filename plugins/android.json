@@ -1,0 +1,20 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "phonegap-facebook-plugin": {
+            "APP_ID": "717244748375587",
+            "APP_NAME": "golazzos app",
+            "PACKAGE_NAME": "com.ionicframework.golazzos498860"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.golazzos498860"
+        }
+    },
+    "dependent_plugins": {}
+}
